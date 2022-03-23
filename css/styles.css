@@ -100,7 +100,18 @@ box-shadow: none !important;
 .proyecto-parrafo{
   width: 504px;
   text-align: center;
-  background: radial-gradient(red, transparent);
+  border-top-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  outline: 0;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-top: 15px;
+  background: radial-gradient(circle, rgba(244,98,58,1) 20%, rgba(255,255,255,1) 82%);
+}
+
+.proyecto-parrafo a{
+color: inherit;
+text-decoration: none
 }
 
 .animado{
@@ -7351,6 +7362,8 @@ color: white !important;
 
 .mt-0 {
   margin-top: 0 !important;
+  color: rgb(33, 37, 41);
+  filter: drop-shadow(2px -1px 0px rgb(244, 98, 58));
 }
 
 .mt-1 {
@@ -7415,6 +7428,12 @@ color: white !important;
 
 .mb-2 {
   margin-bottom: 0.5rem !important;
+}
+
+h3.mb-2{
+  font-size: 1.5rem;
+    color: black;
+    filter: drop-shadow(2px -1px 0px rgb(244, 98, 58));
 }
 
 .mb-2 img{
