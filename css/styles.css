@@ -7785,11 +7785,13 @@ body {
   border-radius: calc(var(--curve) * 1px);
   overflow: hidden;
   text-decoration: none;
+  filter: drop-shadow(2px 4px 6px #F4623A);
 }
 
 .card__image {      
   width: 100%;
   height: auto;
+  min-height: 249px;
 }
 
 .card__overlay {
