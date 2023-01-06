@@ -1,12 +1,13 @@
 ## Personal Portfolio
 
+*This is my personal portfolio, i will update it with interesting new projects. I want to fill my project portfolio to the fullest.*
+
+
 ***Technologies:***
   - Bootstrap 
   - Javascript
   - Html
   - Css
-
-*This is my personal portfolio, i will update it with interesting new projects. I want to fill my project portfolio to the fullest.*
 
    ***What you can find***
    - A brief description about me
